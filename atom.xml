@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hale</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-11-23T08:05:48.773Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Hale Lv</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>page</title>
+    <link href="http://example.com/2023/11/23/page/"/>
+    <id>http://example.com/2023/11/23/page/</id>
+    <published>2023-11-23T08:05:48.000Z</published>
+    <updated>2023-11-23T08:05:48.773Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>about</title>
+    <link href="http://example.com/2023/11/23/about/"/>
+    <id>http://example.com/2023/11/23/about/</id>
+    <published>2023-11-23T02:58:15.000Z</published>
+    <updated>2023-11-23T08:28:59.998Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;new</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2023/11/23/hello-world/"/>
+    <id>http://example.com/2023/11/23/hello-world/</id>
+    <published>2023-11-23T00:55:28.412Z</published>
+    <updated>2023-11-23T00:55:28.412Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
