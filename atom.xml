@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hale</title>
+  <title>北京汇众电源技术有限责任公司</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-11-23T08:05:48.773Z</updated>
+  <updated>2023-11-24T09:15:42.351Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,45 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>产品</title>
+    <link href="http://example.com/2023/11/24/chan-pin/"/>
+    <id>http://example.com/2023/11/24/chan-pin/</id>
+    <published>2023-11-24T09:15:42.000Z</published>
+    <updated>2023-11-24T09:15:42.351Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>AC/DC</title>
+    <link href="http://example.com/2023/11/24/ac-dc/"/>
+    <id>http://example.com/2023/11/24/ac-dc/</id>
+    <published>2023-11-24T09:15:33.000Z</published>
+    <updated>2023-11-24T09:15:33.819Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>公司新闻</title>
+    <link href="http://example.com/2023/11/24/gong-si-xin-wen/"/>
+    <id>http://example.com/2023/11/24/gong-si-xin-wen/</id>
+    <published>2023-11-24T09:15:22.000Z</published>
+    <updated>2023-11-24T09:15:22.293Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>page</title>
@@ -34,16 +73,8 @@
     <link href="http://example.com/2023/11/23/about/"/>
     <id>http://example.com/2023/11/23/about/</id>
     <published>2023-11-23T02:58:15.000Z</published>
-    <updated>2023-11-23T08:28:59.998Z</updated>
+    <updated>2023-11-24T09:11:34.569Z</updated>
     
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;new</summary>
-        
-      
     
     
     
