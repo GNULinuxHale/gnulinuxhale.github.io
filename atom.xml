@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>北京汇众电源技术有限责任公司</title>
+  <title>汇众电源</title>
   
+  <subtitle>Hale Lv</subtitle>
+  <link href="https://gnulinuxhale.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
-  <updated>2023-11-24T09:15:42.351Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://gnulinuxhale.github.io/"/>
+  <updated>2023-11-25T09:41:09.676Z</updated>
+  <id>https://gnulinuxhale.github.io/</id>
   
   <author>
     <name>Hale Lv</name>
@@ -17,9 +17,165 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>联系方式</title>
+    <link href="https://gnulinuxhale.github.io/2023/11/25/lian-xi-fang-shi/"/>
+    <id>https://gnulinuxhale.github.io/2023/11/25/lian-xi-fang-shi/</id>
+    <published>2023-11-25T09:41:09.000Z</published>
+    <updated>2023-11-25T09:41:09.676Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>直流电源</title>
+    <link href="https://gnulinuxhale.github.io/2023/11/25/zhi-liu-dian-yuan/"/>
+    <id>https://gnulinuxhale.github.io/2023/11/25/zhi-liu-dian-yuan/</id>
+    <published>2023-11-25T09:41:03.000Z</published>
+    <updated>2023-11-25T09:41:03.110Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>交流电源</title>
+    <link href="https://gnulinuxhale.github.io/2023/11/25/jiao-liu-dian-yuan/"/>
+    <id>https://gnulinuxhale.github.io/2023/11/25/jiao-liu-dian-yuan/</id>
+    <published>2023-11-25T09:40:59.000Z</published>
+    <updated>2023-11-25T09:40:59.354Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>最新产品</title>
+    <link href="https://gnulinuxhale.github.io/2023/11/25/zui-xin-chan-pin/"/>
+    <id>https://gnulinuxhale.github.io/2023/11/25/zui-xin-chan-pin/</id>
+    <published>2023-11-25T09:40:52.000Z</published>
+    <updated>2023-11-25T09:40:52.667Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>CTF</title>
+    <link href="https://gnulinuxhale.github.io/2023/11/24/ctf/"/>
+    <id>https://gnulinuxhale.github.io/2023/11/24/ctf/</id>
+    <published>2023-11-24T10:51:03.000Z</published>
+    <updated>2023-11-24T10:51:03.668Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ArchLinux</title>
+    <link href="https://gnulinuxhale.github.io/2023/11/24/archlinux/"/>
+    <id>https://gnulinuxhale.github.io/2023/11/24/archlinux/</id>
+    <published>2023-11-24T10:50:55.000Z</published>
+    <updated>2023-11-24T10:50:56.000Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Unix</title>
+    <link href="https://gnulinuxhale.github.io/2023/11/24/unix/"/>
+    <id>https://gnulinuxhale.github.io/2023/11/24/unix/</id>
+    <published>2023-11-24T10:50:51.000Z</published>
+    <updated>2023-11-24T10:50:51.212Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Windows</title>
+    <link href="https://gnulinuxhale.github.io/2023/11/24/windows/"/>
+    <id>https://gnulinuxhale.github.io/2023/11/24/windows/</id>
+    <published>2023-11-24T10:50:30.000Z</published>
+    <updated>2023-11-24T10:50:30.565Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Mac</title>
+    <link href="https://gnulinuxhale.github.io/2023/11/24/mac/"/>
+    <id>https://gnulinuxhale.github.io/2023/11/24/mac/</id>
+    <published>2023-11-24T10:50:25.000Z</published>
+    <updated>2023-11-24T10:50:25.389Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Linux</title>
+    <link href="https://gnulinuxhale.github.io/2023/11/24/linux/"/>
+    <id>https://gnulinuxhale.github.io/2023/11/24/linux/</id>
+    <published>2023-11-24T10:50:20.000Z</published>
+    <updated>2023-11-24T10:50:20.763Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>nginx</title>
+    <link href="https://gnulinuxhale.github.io/2023/11/24/nginx/"/>
+    <id>https://gnulinuxhale.github.io/2023/11/24/nginx/</id>
+    <published>2023-11-24T10:50:14.000Z</published>
+    <updated>2023-11-24T10:50:14.799Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>power</title>
+    <link href="https://gnulinuxhale.github.io/2023/11/24/power/"/>
+    <id>https://gnulinuxhale.github.io/2023/11/24/power/</id>
+    <published>2023-11-24T10:50:09.000Z</published>
+    <updated>2023-11-24T10:50:09.399Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>产品</title>
-    <link href="http://example.com/2023/11/24/chan-pin/"/>
-    <id>http://example.com/2023/11/24/chan-pin/</id>
+    <link href="https://gnulinuxhale.github.io/2023/11/24/chan-pin/"/>
+    <id>https://gnulinuxhale.github.io/2023/11/24/chan-pin/</id>
     <published>2023-11-24T09:15:42.000Z</published>
     <updated>2023-11-24T09:15:42.351Z</updated>
     
@@ -31,8 +187,8 @@
   
   <entry>
     <title>AC/DC</title>
-    <link href="http://example.com/2023/11/24/ac-dc/"/>
-    <id>http://example.com/2023/11/24/ac-dc/</id>
+    <link href="https://gnulinuxhale.github.io/2023/11/24/ac-dc/"/>
+    <id>https://gnulinuxhale.github.io/2023/11/24/ac-dc/</id>
     <published>2023-11-24T09:15:33.000Z</published>
     <updated>2023-11-24T09:15:33.819Z</updated>
     
@@ -44,8 +200,8 @@
   
   <entry>
     <title>公司新闻</title>
-    <link href="http://example.com/2023/11/24/gong-si-xin-wen/"/>
-    <id>http://example.com/2023/11/24/gong-si-xin-wen/</id>
+    <link href="https://gnulinuxhale.github.io/2023/11/24/gong-si-xin-wen/"/>
+    <id>https://gnulinuxhale.github.io/2023/11/24/gong-si-xin-wen/</id>
     <published>2023-11-24T09:15:22.000Z</published>
     <updated>2023-11-24T09:15:22.293Z</updated>
     
@@ -57,8 +213,8 @@
   
   <entry>
     <title>page</title>
-    <link href="http://example.com/2023/11/23/page/"/>
-    <id>http://example.com/2023/11/23/page/</id>
+    <link href="https://gnulinuxhale.github.io/2023/11/23/page/"/>
+    <id>https://gnulinuxhale.github.io/2023/11/23/page/</id>
     <published>2023-11-23T08:05:48.000Z</published>
     <updated>2023-11-23T08:05:48.773Z</updated>
     
@@ -70,8 +226,8 @@
   
   <entry>
     <title>about</title>
-    <link href="http://example.com/2023/11/23/about/"/>
-    <id>http://example.com/2023/11/23/about/</id>
+    <link href="https://gnulinuxhale.github.io/2023/11/23/about/"/>
+    <id>https://gnulinuxhale.github.io/2023/11/23/about/</id>
     <published>2023-11-23T02:58:15.000Z</published>
     <updated>2023-11-24T09:11:34.569Z</updated>
     
@@ -83,8 +239,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/11/23/hello-world/"/>
-    <id>http://example.com/2023/11/23/hello-world/</id>
+    <link href="https://gnulinuxhale.github.io/2023/11/23/hello-world/"/>
+    <id>https://gnulinuxhale.github.io/2023/11/23/hello-world/</id>
     <published>2023-11-23T00:55:28.412Z</published>
     <updated>2023-11-23T00:55:28.412Z</updated>
     
