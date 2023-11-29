@@ -6,7 +6,7 @@
   <link href="https://gnulinuxhale.github.io/atom.xml" rel="self"/>
   
   <link href="https://gnulinuxhale.github.io/"/>
-  <updated>2023-11-28T05:19:30.355Z</updated>
+  <updated>2023-11-28T10:09:25.846Z</updated>
   <id>https://gnulinuxhale.github.io/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>front</title>
+    <link href="https://gnulinuxhale.github.io/2023/11/28/front/"/>
+    <id>https://gnulinuxhale.github.io/2023/11/28/front/</id>
+    <published>2023-11-28T10:08:23.000Z</published>
+    <updated>2023-11-28T10:09:25.846Z</updated>
+    
+    
+    
+    
+    
+    <category term="front" scheme="https://gnulinuxhale.github.io/tags/front/"/>
+    
+  </entry>
   
   <entry>
     <title>musics</title>
