@@ -6,7 +6,7 @@
   <link href="https://gnulinuxhale.github.io/atom.xml" rel="self"/>
   
   <link href="https://gnulinuxhale.github.io/"/>
-  <updated>2023-12-05T04:33:22.834Z</updated>
+  <updated>2023-12-07T00:58:16.232Z</updated>
   <id>https://gnulinuxhale.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2023</title>
+    <link href="https://gnulinuxhale.github.io/2023/12/07/2023/"/>
+    <id>https://gnulinuxhale.github.io/2023/12/07/2023/</id>
+    <published>2023-12-07T00:58:16.000Z</published>
+    <updated>2023-12-07T00:58:16.232Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>index</title>
